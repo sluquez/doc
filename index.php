@@ -1,3 +1,3 @@
 <?
-include_once('readme.md');
+include_once('README.md');
 ?>
